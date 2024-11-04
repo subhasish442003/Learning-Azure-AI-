@@ -1,8 +1,8 @@
-#Enviroment(.env)
-AI_SERVICE_ENDPOINT=YOUR_AI_SERVICES_ENDPOINT
-AI_SERVICE_KEY=YOUR_AI_SERVICES_KEY
+#Enviroment(REST-CLIENT)
+'AI_SERVICE_ENDPOINT=YOUR_AI_SERVICES_ENDPOINT'
+'AI_SERVICE_KEY=YOUR_AI_SERVICES_KEY'
 
-#code for rest file
+#code for rest-client file
 from dotenv import load_dotenv
 import os
 import http.client, base64, json, urllib
