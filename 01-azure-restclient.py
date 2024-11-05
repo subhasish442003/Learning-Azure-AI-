@@ -1,7 +1,3 @@
-#Enviroment(REST-CLIENT)
-'AI_SERVICE_ENDPOINT=YOUR_AI_SERVICES_ENDPOINT'
-'AI_SERVICE_KEY=YOUR_AI_SERVICES_KEY'
-
 #code for rest-client file
 from dotenv import load_dotenv
 import os
