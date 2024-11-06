@@ -1,6 +1,6 @@
 #enviroment for image-analysis file
-AI_SERVICE_ENDPOINT="https://azureai-bicky29.cognitiveservices.azure.com/"
-AI_SERVICE_KEY="AX5dmOqCRot4s6KE5ckm5zY8w7eYG8gzc7ENpCn7Uvo7ippoYYmXJQQJ99AKACYeBjFXJ3w3AAAAACOGExxh"
+AI_SERVICE_ENDPOINT="https://azureai-xxxxxxx.cognitiveservices.azure.com/"
+AI_SERVICE_KEY="AX5dmOqCRot4s6KE5ckm5zY8w7eYG8gzc7ENpCn7Uvo7ippoYYmXJQQJ99AKACYeBjFXJ3w3AAAAxxxxx"
 
 #code for image-analysis file
 from dotenv import load_dotenvimport osfrom PIL
