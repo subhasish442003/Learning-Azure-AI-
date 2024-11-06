@@ -1,6 +1,6 @@
 #Enviroment for READ-TEXT file
 AI_SERVICE_ENDPOINT="https://azureai-xxxxxx.cognitiveservices.azure.com/"
-AI_SERVICE_KEY="8mtVHOv0dtzGXQkLvWu8KzcsBmvttRJiqgoaakMoBKVuwQ65N0dXJQQJ99AKACYeBjFXJ3w3AAAAACOG4wO0"
+AI_SERVICE_KEY="8mtVHOv0dtzGXQkLvWu8KzcsBmvttRJiqgoaakMoBKVuwQ65N0dXJQQJ99AKACYeBjFXJ3w3AAAAACxxxxx"
 
 #code for READ-TEXT file
 from dotenv import load_dotenv
