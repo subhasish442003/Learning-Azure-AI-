@@ -1,5 +1,5 @@
 #Enviroment for READ-TEXT file
-AI_SERVICE_ENDPOINT="https://azureai-mahi23.cognitiveservices.azure.com/"
+AI_SERVICE_ENDPOINT="https://azureai-xxxxxx.cognitiveservices.azure.com/"
 AI_SERVICE_KEY="8mtVHOv0dtzGXQkLvWu8KzcsBmvttRJiqgoaakMoBKVuwQ65N0dXJQQJ99AKACYeBjFXJ3w3AAAAACOG4wO0"
 
 #code for READ-TEXT file
