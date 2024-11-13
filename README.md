@@ -12,7 +12,7 @@ This Python script uses Azure AI Vision's Image Analysis Client to analyze image
 
 #ReadMe file for Read-Text file
 This Python script uses Azure AI Vision's Image Analysis Client to read and extract text from images. It can handle both printed text and handwritten text recognition. The recognized text and bounding boxes are displayed on the image, which is then saved with annotations. Requires environment variables for Azure endpoint and key.
-#readMe file for  Fruit Image Classification
+#ReadMe file for  Fruit Image Classification
 This repository contains a dataset of fruit images, labeled and organized for image classification tasks. Each image is stored with metadata including resolution, file name, and capture date. The goal is to use these images for training machine learning models to classify different types of fruits. All images are sourced and stored securely in Azure Blob Storage, accessible via provided URLs.
 
 
@@ -20,3 +20,9 @@ This repository contains a dataset of fruit images, labeled and organized for im
 This Python script creates a chatbot named "Forest" that suggests hiking trails. By default, it offers recommendations near Rainier National Park, sharing trail options and interesting nature facts. Environment variables (`AZURE_OAI_ENDPOINT`, `AZURE_OAI_KEY`, `AZURE_OAI_DEPLOYMENT`) should be set in a `.env` file for the Azure OpenAI configuration.
 ## Usage
 Run `python script.py` and enter prompts to interact with the bot.
+
+#ReadMe file Text Analytics with Azure AI
+This Python script performs text analytics on files in a `reviews` folder using Azure AI's Text Analytics service. It detects the language, analyzes sentiment, extracts key phrases, identifies entities, and recognizes linked entities within each text file. To run, configure your Azure AI endpoint and key in a `.env` file as `AI_SERVICE_ENDPOINT` and `AI_SERVICE_KEY`. 
+# Requirements
+- Install dependencies: `pip install -r requirements.txt`
+
