@@ -1,6 +1,8 @@
+#enviroment(.env)file for text analysis
+AI_SERVICE_ENDPOINT="https://maxxxxxx.cognitiveservices.azure.com/"
+AI_SERVICE_KEY="31afyeS8GhK4yT7XDXRAwwhpnsZYH67uS29BqIGy1otkLKoWSmwgJQQJ99AKACYeBjFXJ3w3AAAaACOxxxxx"
 
-
-
+#code for text-analysis file
 from dotenv import load_dotenv
 import os
 # Import namespaces
