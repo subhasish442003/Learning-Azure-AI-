@@ -25,4 +25,14 @@ Run `python script.py` and enter prompts to interact with the bot.
 This Python script performs text analytics on files in a `reviews` folder using Azure AI's Text Analytics service. It detects the language, analyzes sentiment, extracts key phrases, identifies entities, and recognizes linked entities within each text file. To run, configure your Azure AI endpoint and key in a `.env` file as `AI_SERVICE_ENDPOINT` and `AI_SERVICE_KEY`. 
 # Requirements
 - Install dependencies: `pip install -r requirements.txt`
+ 
+#ReadMe file for Create a Question Answering Solution  
+Question Answering Solution
+
+This Python project uses Azure Cognitive Services' Question Answering API to provide answers based on a configured project and deployment. The application reads API credentials from a `.env` file for secure configuration. Users can interact with the system by typing questions, and the application will return the most confident answer. To run, configure the `.env` file with your Azure credentials and execute `main.py`. 
+
+## Requirements
+- Python 3.6+
+- Azure Cognitive Services account
+
 
