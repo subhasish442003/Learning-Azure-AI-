@@ -36,3 +36,16 @@ This Python project uses Azure Cognitive Services' Question Answering API to pro
 - Azure Cognitive Services account
 
 
+#ReadMe for Create a language understanding model with the Language service
+This Python script uses **Azure AI Language Services** to analyze user input, identify intents, and provide responses for queries about time, date, and day. It supports various locations and handles simple date-related questions.  
+
+### Prerequisites  
+- Python 3.8+, `azure-ai-language-conversations`, and `python-dotenv` libraries.  
+- `.env` file with your Azure endpoint and key:  
+  
+  LS_CONVERSATIONS_ENDPOINT=<your_endpoint>
+  LS_CONVERSATIONS_KEY=<your_key>
+
+### Usage  
+Run the script and ask questions like "What time is it in London?" or "What day is 12/25/2024?". Type `quit` to exit.
+
