@@ -49,3 +49,14 @@ This Python script uses **Azure AI Language Services** to analyze user input, id
 ### Usage  
 Run the script and ask questions like "What time is it in London?" or "What day is 12/25/2024?". Type `quit` to exit.
 
+#ReadMe file for Recognize and synthesize speech
+This Python project demonstrates the use of Azure Cognitive Services for speech recognition and synthesis. It performs the following tasks:
+
+Recognizes spoken commands using Azure Speech-to-Text.
+Responds to the command "What time is it?" by announcing the current time using Azure Text-to-Speech.
+Uses an SSML (Speech Synthesis Markup Language) response for a richer audio experience.
+Prerequisites :
+Azure Speech service API key and region.
+Python packages: azure-cognitiveservices-speech, dotenv, playsound.
+A time.wav file as an audio prompt for transcription.
+
