@@ -1,5 +1,5 @@
 #Enviroment (.env) file for Recognize and synthesize speech
-SPEECH_KEY="7hovYdNPnGAdH7jhjOHs3DjyZrr2YXiZ36gLxDLLtMiBskcxGF9oJQQJ99AKACYeBjFXJ3w3AAAYxxxxxxx"
+SPEECH_KEY="7hovYdNPnGAdH7jhjOHs3DjyZrr2YXiZ36gLxDLLtMiBskcxGF9oJQQJ99AKACYeBjFXJ3w3AAAYxxxxxxxx"
 SPEECH_REGION="eastus"
 
 #code for Recognize and synthesize speech
